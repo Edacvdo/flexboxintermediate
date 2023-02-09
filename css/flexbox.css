@@ -1,0 +1,40 @@
+.headerPrincipal .container{
+	display: flex;
+    justify-items: center;
+    justify-content: space-between;
+}
+
+.headerPrincipal-titulo {
+	display: flex;
+}
+
+.headerPrincipal-nav { 
+    display: flex;
+    flex-wrap: wrap;
+	
+}
+
+
+.contenidoPrincipal .container .contenidoPrincipal-cursos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-items: center;
+    justify-content: space-between;
+      
+}
+
+.contenidoPrincipal .container{
+    margin-top: 20px;
+    margin-bottom: 20px ;
+}
+
+
+.videoSobre .container{
+    display: flex;
+    justify-items: center;
+    justify-content: flex-start;
+}
+
+.videoSobre .container .videoSobre-sobre{
+    margin-left: 3rem;
+}
