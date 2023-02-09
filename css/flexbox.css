@@ -32,9 +32,50 @@
 .videoSobre .container{
     display: flex;
     justify-items: center;
-    justify-content: flex-start;
+    justify-content: center;
+    
 }
 
 .videoSobre .container .videoSobre-sobre{
     margin-left: 3rem;
+   text-align: center;
+   
 }
+
+.videoSobre .container .videoSobre-sobre .videoSobre-button{
+    width: 100%;
+    margin-top: 28%;
+     
+}
+
+.rodapePrincipal-navMap .rodapePrincipal-navMap-list .rodapePrincipal-navMap-link{
+    display: block;
+}
+
+.rodapePrincipal-navMap .rodapePrincipal-navMap-list{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.rodapePrincipal-patrocinadores .container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.rodapePrincipal-patrocinadores-list{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 70%;
+}
+
+.rodapePrincipal-contatoForm{
+    width: 25%;
+    
+}
+
+.rodapePrincipal-contatoForm-fieldset{
+    display: flex;
+}
+

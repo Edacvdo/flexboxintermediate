@@ -258,6 +258,7 @@ body {
 	.contenidoPrincipal-cursos-link:nth-child(3n+1) {
 		margin-left: 0;
 	}*/
+	
 
 }
 
@@ -284,9 +285,9 @@ body {
 	}
 
 	.videoSobre-sobre {
-		margin-left: 1.5em;
-	}*/
-
+		font-size: 12em ;
+	}
+*/
 }
 
 
